@@ -45,8 +45,8 @@ const ProjectsSection = () => {
     {
       image: portss,
       title: "Portfolio Website",
-      description: "A personal portfolio showcasing my projects, skills, and contact info. using only basic HTML,CSS ",
-      link: "https://github.com/rahulbhatia775/rahulbhatia775.github.io",
+      description: "A personal portfolio showcasing my projects, skills, and contact info. using only basic HTML,CSS and JS",
+      link: "https://github.com/rahulbhatia775/static-portfolio",
     },
     {
       image: ss,
