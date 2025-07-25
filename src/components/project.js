@@ -1,6 +1,7 @@
 import React from "react";
 import portss from "../assets/portss.png"
 import ss from "../assets/google.png"
+import Midnight from "../assets/MidnightPens.png"
 
 const ProjectCard = ({ image, title, description, link }) => {
   return (
@@ -42,11 +43,17 @@ const ProjectCard = ({ image, title, description, link }) => {
 
 const ProjectsSection = () => {
   const projects = [
+      {
+      image: Midnight,
+      title: "MidnightPens - A New way to Blog",
+      description: "MidnightPens is an open blogging platform built using Django, PostgreSQL, and React, where anyone can freely share their thoughts. It offers a clean, responsive UI with markdown support and a smooth writing experience for all users.",
+      link: "https://github.com/rahulbhatia775/MidnightPens",
+    },
     {
       image: portss,
       title: "Portfolio Website",
-      description: "A personal portfolio showcasing my projects, skills, and contact info. using only basic HTML,CSS ",
-      link: "https://github.com/rahulbhatia775/rahulbhatia775.github.io",
+      description: "A personal portfolio showcasing my projects, skills, and contact info. using only basic HTML,CSS and JS ",
+      link: "https://github.com/rahulbhatia775/static-portfolio",
     },
     {
       image: ss,
@@ -54,7 +61,7 @@ const ProjectsSection = () => {
       description: "A simplified clone of Google's homepage with search functionality using Google Custom Search.",
       link: "https://github.com/rahulbhatia775/google-clone",
     },
-    // Add more projects here if needed
+    // Add more projects here if needed(own ref)
   ];
 
   return (

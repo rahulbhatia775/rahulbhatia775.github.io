@@ -40,8 +40,9 @@ function Hero() {
                             Hire Me
                         </a>
                         <a
-                            href={resumePDF}
-                            download="Rahul_Bhatia_Resume.pdf"
+                            href="https://drive.google.com/file/d/1rGKqXo5dc5oPqawWKAwa8682C1Udzw0j/view?usp=drive_link"
+                            target="_blank"
+                            //download="Rahul_Bhatia_Resume.pdf"
                             className="bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-6 rounded-xl shadow-lg"
                         >
                             Resume
