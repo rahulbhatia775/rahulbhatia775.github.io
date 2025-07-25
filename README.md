@@ -1,70 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🚀 Rahul Bhatia – Developer Portfolio
 
-## Available Scripts
+Welcome to my personal portfolio website! This is a responsive, modern, and minimal web portfolio built using **React** and **Tailwind CSS**. It highlights my skills, showcases my projects, and provides a way for people to reach out or download my resume.
 
-In the project directory, you can run:
+## 🧠 About Me
 
-### `npm start`
+I'm **Rahul Bhatia**, a passionate AI/ML enthusiast with a deep interest in modern web development. This portfolio serves as my digital presence and reflects my journey, knowledge, and creative work.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌐 Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔗 [View My Portfolio](https:rahulbhatia775.github.io)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📂 Features
 
-### `npm run build`
+- 🔥 Stylish Hero Section with animated gradient
+- 🛠️ Skills section with tech categories
+- 📁 Projects showcase with description
+- 📬 Contact form integrated with Web3Forms
+- 🧾 Resume download support
+- 🌙 Dark mode toggle
+- 💻 Fully responsive layout for all devices
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
+- Tailwind CSS
+- Web3Forms (Contact API)
+- Font Awesome (Social icons)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📥 Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/rahulbhatia775/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📦 Deployment
 
-## Learn More
+This project can be deployed on any static hosting service like **GitHub Pages**, **Vercel**, or **Netlify**.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To deploy on GitHub Pages:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Run `npm run build`
+2. Push the contents of the `build/` folder to your `gh-pages` branch
+3. Enable GitHub Pages in the repository settings
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📧 Contact
 
-### Analyzing the Bundle Size
+If you'd like to connect, collaborate, or just say hello:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* ✉️ Email: [rahulbhatia775@gmail.com](mailto:rahulbhatia775@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/rahul-bhatia-9782802b2](https://linkedin.com/in/rahul-bhatia-9782802b2)
+* 🐙 GitHub: [github.com/rahulbhatia775](https://github.com/rahulbhatia775)
+* 🐦 Twitter/X: [x.com/rahulbhatia775](https://x.com/rahulbhatia775)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📝 License
 
-### Advanced Configuration
+This project is open source and available under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
